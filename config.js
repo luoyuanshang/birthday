@@ -11,8 +11,8 @@ var config = {
         "勤有所勉，悔犹可追",
         "生日快乐",
         "公主殿下",
-        "遇见你，是我最幸运的事",
         "祝你和你的王子，幸福平安",
+        "遇见你是我今年最幸运的事",
         "我与清风皆过客",
         "你携秋水揽星河",
         "只叹纵来去",
@@ -33,13 +33,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "启动！",
+        play: "音乐！",
+        bannar_coming: "来点装饰？",
+        balloons_flying: "气球！",
+        cake_fadein: "蛋糕！",
+        light_candle: "蜡烛！",
+        wish_message: "生日快乐！",
+        story: "那么，寄语：",
     }
 };
